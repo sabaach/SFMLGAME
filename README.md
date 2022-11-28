@@ -1,5 +1,5 @@
 # SFMLGAME
 ENDLESS RUNNER GAME MADE WITH SFML C++
 
-FOLLOW :
+FOLLOW 
 Instagram : @fellas.studios & @sabaach_
